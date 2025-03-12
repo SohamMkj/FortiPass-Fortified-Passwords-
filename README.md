@@ -18,7 +18,7 @@ Deployment: Vercel (or any static hosting)
 
 🔧 Installation & Setup
 1️⃣ Clone this repository:
-git clone https://github.com/yourusername/fortipass.git
+git clone https://github.com/SohamMkj/FortiPass-Fortified-Passwords.git
 cd fortipass
 
 2️⃣ Install dependencies:
