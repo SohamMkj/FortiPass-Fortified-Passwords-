@@ -1,3 +1,41 @@
+FortiPass 🔐 – Secure Password Generator
+FortiPass is a sleek and powerful password generator designed to create strong, secure, and unbreakable passwords instantly. Whether you need a password for online accounts, work, or extra security, FortiPass ensures maximum protection with customizable options.
+
+🚀 Features
+✅ Generate random, strong passwords instantly
+✅ Customize length, numbers, and special characters
+✅ Copy passwords with a single click
+✅ Sleek and responsive UI (Tailwind CSS)
+✅ Fast and lightweight, built with React & Vite
+
+🖥 Tech Stack
+Frontend: React, Tailwind CSS, Vite
+State Management: useState, useEffect
+Deployment: Vercel (or any static hosting)
+📸 Screenshot
+![FortiPassImagePreview](https://github.com/user-attachments/assets/cd8ffa8e-e937-4f8d-a26f-64f9b7e87387)
+
+
+🔧 Installation & Setup
+1️⃣ Clone this repository:
+git clone https://github.com/yourusername/fortipass.git
+cd fortipass
+
+2️⃣ Install dependencies:
+npm install
+
+3️⃣ Start the development server:
+npm run dev
+
+🌎 Live Demo
+🔗 FortiPass Live Demo (Will add once Deployed)
+
+📜 License
+This project is licensed under the MIT License.
+
+💡 Want to improve FortiPass? Contributions are welcome! 🚀✨
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
