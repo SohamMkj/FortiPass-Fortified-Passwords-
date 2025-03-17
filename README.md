@@ -28,7 +28,7 @@ npm install
 npm run dev
 
 🌎 Live Demo
-🔗 FortiPass Live Demo (Will add once Deployed)
+🔗 FortiPass Live Demo (https://forti-pass-fortified-passwords.vercel.app/)
 
 📜 License
 This project is licensed under the MIT License.
